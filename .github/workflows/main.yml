@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run Python Code
-        run: python app.py
+        run: python app_git.py
